@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source "D:/Projekte/Projektarbeit/kicad/kicad controller/controller.sch")
-    (date "08.12.2014 17:33:24")
+    (date "08.12.2014 21:21:37")
     (tool "Eeschema (2014-12-04 BZR 5312)-product"))
   (components
     (comp (ref U2)
