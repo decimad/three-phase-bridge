@@ -1,4 +1,4 @@
-update=05.12.2014 17:53:55
+update=08.12.2014 17:33:58
 version=1
 last_client=kicad
 [cvpcb]
@@ -48,12 +48,12 @@ LibName33=C:/KiCad/share/library/borniers
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=
-UseCmpFile=1
-PadDrill=0
-PadDrillOvalY=0
-PadSizeH=0.635
-PadSizeV=1.143
+LastNetListRead=controller.net
+UseCmpFile=0
+PadDrill=1.524
+PadDrillOvalY=1.524
+PadSizeH=3.81
+PadSizeV=3.81
 PcbTextSizeV=1.5
 PcbTextSizeH=1.5
 PcbTextThickness=0.3
